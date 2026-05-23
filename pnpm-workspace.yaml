@@ -1,0 +1,8 @@
+packages:
+  - auth-service
+  - user-service
+
+onlyBuiltDependencies:
+  - mongodb-memory-server
+  - protobufjs
+  - unrs-resolver
